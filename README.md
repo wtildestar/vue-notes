@@ -1,5 +1,7 @@
 # vue-notes
 
+You can visit the project in expanded access on firebase servers https://vue-notes-90b4b.web.app/
+
 ## Project setup
 ```
 yarn install
